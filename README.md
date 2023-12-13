@@ -15,7 +15,7 @@ To provide customers with a convenient online platform for exploring and purchas
 * Increase the variety and selection of products.
 * Improve customer engagement and loyalty programs.
 
-#Category of Business:
+# Category of Business:
 Primarily books, consumer gadgets, and office supplies.
 
 # Design Evaluation:
